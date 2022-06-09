@@ -24,8 +24,8 @@
 
   // Other
   global.ownername = 'Riy' // Ganti Jadi Namamu
-  global.owner = ['48729755869','48729755869','48729755869'] // Kalo Mau Lebih Tambahin Aja
-  global.ownernomer = '48729755869' // Owner Utama Istilahnya
+  global.owner = ['6281325984505','6281325984505','6281325984505'] // Kalo Mau Lebih Tambahin Aja
+  global.ownernomer = '6281325984505' // Owner Utama Istilahnya
   global.botname = 'FauzyMD' // Ganti Jadi Nama Botmu
   global.packname = 'FauzyMD' // Sticker Weem
   global.author = 'Nomor Bot WhatsApp:628819514042' // Sticker Weem
