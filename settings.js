@@ -23,14 +23,14 @@
   global.prefa = ['','.','/','#']
 
   // Other
-  global.ownername = 'Riy' // Ganti Jadi Namamu
-  global.owner = ['6281325984505','6281325984505','6281325984505'] // Kalo Mau Lebih Tambahin Aja
-  global.ownernomer = '6281325984505' // Owner Utama Istilahnya
+  global.ownername = 'FauzyXD' // Ganti Jadi Namamu
+  global.owner = ['6281325984505','628819514042','6285791677204'] // Kalo Mau Lebih Tambahin Aja
+  global.ownernomer = '6285791677204' // Owner Utama Istilahnya
   global.botname = 'FauzyMD' // Ganti Jadi Nama Botmu
-  global.packname = 'FauzyMD' // Sticker Weem
+  global.packname = 'Nomor Bot:628819514042' // Sticker Weem
   global.author = 'Nomor Bot WhatsApp:628819514042' // Sticker Weem
   global.webme = '-' // Ganti Sama Web Mu
-  global.linkgroup = 'https://chat.whatsapp.com/Ik49VZDIBVELDEvkU42rvB' // Ganti Sama Link Gc Mu
+  global.linkgroup = 'https://chat.whatsapp.com/L0iC3hLibvlEPKRO3JOMT1' // Ganti Sama Link Gc Mu
   global.sessionName = 'session'
   global.youtube = 'https://youtube.com/channel/UCFnVU49rj4ld8V7eFoCk-Gw' // Ganti Sama Link Yt Mu
   global.github = 'https://github.com/FauzitioX' // Ganti Sama Link Github Mu
@@ -63,7 +63,7 @@
   private: '_Khusus Private Chat_',
   bot: '_Khusus Pengguna Nomer Bot_',
   wait: '_Wait ..._',
-  done: '_Succes © FauzyMD_',
+  done: '_Succes ©FauzyMD_',
   }
 
   // Kalo Mau Menyesuaikan Nama File Foto Nya
