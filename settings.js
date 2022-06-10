@@ -27,8 +27,10 @@
   global.owner = ['6281325984505','628819514042','6285791677204'] // Kalo Mau Lebih Tambahin Aja
   global.ownernomer = '6285791677204' // Owner Utama Istilahnya
   global.botname = 'FauzyMD' // Ganti Jadi Nama Botmu
-  global.packname = 'Nomor Bot:628819514042' // Sticker Weem
-  global.author = 'Nomor Bot WhatsApp:628819514042' // Sticker Weem
+  global.packname = '©FauzyXD||+62🇮🇩
+I’M From Indonesia' // Sticker Weem
+  global.author = 'Wa : 6285791677204
+Yt : FAUZI BOTZ' // Sticker Weem
   global.webme = '-' // Ganti Sama Web Mu
   global.linkgroup = 'https://chat.whatsapp.com/L0iC3hLibvlEPKRO3JOMT1' // Ganti Sama Link Gc Mu
   global.sessionName = 'session'
@@ -56,13 +58,13 @@
 
   // Edit Sesuai Kemauanmu
   global.mess = {
-  admin: '_Lu Admin?_',
-  botAdmin: '_Bot Bukan Admin_',
-  owner: '_Anda Bukan Owner © FauzyMD_',
-  group: '_Khusus Group_',
-  private: '_Khusus Private Chat_',
-  bot: '_Khusus Pengguna Nomer Bot_',
-  wait: '_Wait ..._',
+  admin: '_Lu Admin? ©FauzyMD _',
+  botAdmin: '_Bot Bukan Admin ©FauzyMD _',
+  owner: '_Anda Bukan Owner ©FauzyMD_',
+  group: '_Khusus Group ©FauzyMD _',
+  private: '_Khusus Private Chat ©FauzyMD _',
+  bot: '_Khusus Pengguna Nomer Bot ©FauzyMD _',
+  wait: '_Wait ©FauzyMD ..._',
   done: '_Succes ©FauzyMD_',
   }
 
